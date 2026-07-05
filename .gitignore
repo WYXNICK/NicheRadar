@@ -10,7 +10,5 @@ __pycache__/
 data/*.h5ad
 data/*.h5
 data/*.zarr
-output/*
-!output/
-!output/*.png
+output/
 *.log
